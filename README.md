@@ -62,6 +62,7 @@ specify them as environment variables which you can found in files with prefix "
 * `RETHINK_PORT`: the port (default `28015`)
 * `RETHINK_DB_NAME`: the app database (default: `rethinkpoc`)
 
+
 * MySql details
 * `MYSQL_HOST`: the MySql host (default: `localhost`)
 * `MYSQL_USER`: the user for accessing database
