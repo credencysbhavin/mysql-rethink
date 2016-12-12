@@ -58,14 +58,14 @@ _Note_: If you want to override the default RethinkDB connection details & MySql
 specify them as environment variables which you can found in files with prefix ".env.<env>":
 
 * Rethink Details
-** `RETHINK_HOST`: the RethinkDB host (default: `192.168.1.247`)
-** `RETHINK_PORT`: the port (default `28015`)
-** `RETHINK_DB_NAME`: the app database (default: `rethinkpoc`)
+* `RETHINK_HOST`: the RethinkDB host (default: `192.168.1.247`)
+* `RETHINK_PORT`: the port (default `28015`)
+* `RETHINK_DB_NAME`: the app database (default: `rethinkpoc`)
 
 * MySql details
-** `MYSQL_HOST`: the MySql host (default: `localhost`)
-** `MYSQL_USER`: the user for accessing database
-** `MYSQL_PASSWORD`: the password to access database
-** `MYSQL_DATABASE`: database name of  MySql
-** `MYSQL_DATABASE`: default MySql port
+* `MYSQL_HOST`: the MySql host (default: `localhost`)
+* `MYSQL_USER`: the user for accessing database
+* `MYSQL_PASSWORD`: the password to access database
+* `MYSQL_DATABASE`: database name of  MySql
+* `MYSQL_DATABASE`: default MySql port
 
